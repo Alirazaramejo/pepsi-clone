@@ -1,0 +1,1985 @@
+body {
+  margin: 0%;
+}
+
+.navbar {
+  background-color: #0065c3;
+}
+
+.nav-link {
+  color: white;
+  font-size: 0.875rem;
+  font-weight: 750;
+  padding-left: 20px;
+  margin: 0;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: white
+}
+
+.nav-item {
+  padding-left: 2.111em;
+}
+
+.nav-item .nav-link:hover,
+.nav-item .nav-link:focus {
+  color: white;
+}
+
+.navbar .navbar-toggler {
+  border: white 1px solid;
+}
+
+.navbar .navbar-toggler:focus {
+  box-shadow: none;
+}
+
+.navbar .navbar-toggler .navbar-toggler-icon {
+  filter: brightness(0) invert(1);
+
+}
+
+.Buy-pepsi-products-Button {
+  padding-left: 20rem;
+
+}
+
+.Buy-pepsi-products-Button button {
+  display: inline-block;
+  font-size: 1em;
+  font-weight: 750;
+  height: 2.3em;
+  border: 2px solid #fff;
+  padding: 3px 15px 3px 15px;
+  border-radius: 1.8em;
+  background: transparent;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  -webkit-transition: background-color .1s ease-out, color .1s ease-out;
+  transition: background-color .1s ease-out, color .1s ease-out;
+
+
+}
+
+
+
+@media (min-width: 1024px) {
+  .pepsi-apple-music {
+    height: 91.62162162162163vh;
+    justify-content: end;
+    width: 100%;
+    background-size: cover;
+
+  }
+}
+
+@media (max-width: 1023px) {
+  .pepsi-apple-music {
+    height: 132.23140495867767vh;
+    justify-content: end;
+    width: 100%;
+    background-size: cover;
+
+  }
+}
+
+.pepsi-apple-music {
+  align-items: start;
+  height: 202.051vw;
+  max-height: 960px;
+  background-size: cover;
+
+  width: 100%;
+}
+
+
+@media (min-width: 1024px) {
+  .pepsi-apple-music-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.pepsi-apple-music-container {
+  font-size: .7rem;
+  width: 81.282vw;
+  max-width: 422px;
+  color: #fff;
+  width: 100%;
+}
+
+@media (min-width: 900px) {
+  .pepsi-apple-music-main-heading img {
+    max-width: 488px;
+    max-height: 500px;
+    padding-top: 5rem;
+    width: 100%;
+  }
+}
+
+@media (min-width: 1366px) {
+  .pepsi-apple-music-main-heading img {
+    max-width: 488px;
+    max-height: 500px;
+    width: 100%;
+  }
+}
+
+.pepsi-apple-music-main-heading img {
+  height: 56.41vw;
+  width: 81.282vw;
+  max-height: 282px;
+  max-width: 422px;
+  background-size: auto 100%;
+  width: 100%;
+}
+
+.pepsi-apple-music-content {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+@media (min-width: 900px) {
+  .pepsi-apple-music-button {
+    margin-bottom: 20%;
+  }
+}
+
+.pepsi-apple-music-button {
+  display: inline-block;
+  font-size: 1em;
+  font-weight: 750;
+  height: 2.3em;
+  padding: 0.4em 1.85em;
+  border: 2px solid #fff;
+  border-radius: 1.8em;
+  background: transparent;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 5% 0;
+}
+
+@media (min-width: 390px) {
+  .pepsi-apple-music-bootle-image img {
+    background-size: auto 115.487vw;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 94.641vw;
+    width: 100%;
+  }
+}
+
+@media (min-width: 428px) {
+  .pepsi-apple-music-bootle-image img {
+    background-size: auto 95.487vw;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 81.757vw;
+    width: 100%;
+
+  }
+}
+
+@media (min-width: 580px) {
+  .pepsi-apple-music-bootle-image img {
+    background-size: auto 121%;
+    height: 59.757vw;
+    width: 100%;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .pepsi-apple-music-bootle-image img {
+    background-size: auto 544px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 417.2px;
+    width: 120%;
+
+  }
+}
+
+@media (min-width: 1024px) {
+  .pepsi-apple-music-bootle-image img {
+    height: 38.453vw;
+    width: 165%;
+
+  }
+}
+
+@media (m-width: 1440px) {
+  .pepsi-apple-music-bootle-image img {
+    height: 43.453vw;
+    width: 100%;
+  }
+}
+
+/* ZERO SUGAR CAN  CONATINER-----------------------------------------   */
+
+
+.zero-sugar-box {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  overflow: hidden;
+  background-color: black;
+  padding-top: 10px;
+  overflow: hidden;
+
+}
+
+/* ZERO SUGAR HEADER CONTAINER--------------------------------------  */
+
+
+
+.zero-sugar-header-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding-top: 136px;
+}
+
+
+
+/* ZERO SUGAR HEADER CONTAINER---------------------(IMAGE)-----------   */
+
+
+@media (min-width: 300px) {
+  .zero-sugar-header-container img {
+
+    width: 100%;
+
+  }
+}
+
+@media (min-width: 576px) {
+  .zero-sugar-header-container img {
+    width: 245px;
+    height: 160px;
+  }
+}
+
+@media (min-width: 768px) {
+  .zero-sugar-header-container img {
+    width: 380px;
+    height: 225px;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .zero-sugar-header-container img {
+    width: 410px;
+    height: 230px;
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .zero-sugar-header-container img {
+    width: 500px;
+    height: 280px;
+
+  }
+}
+
+.zero-sugar-header-container img {
+  overflow: hidden;
+  position: relative;
+}
+
+
+
+
+/*ZERO SUGAR CAN BOTTLE --------------------(IMAGE)------------------  */
+
+
+
+
+@media (min-width: 300px) {
+  .zero-sugar-can-bottle img {
+
+    width: 100%;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .zero-sugar-can-bottle img {
+
+    width: 605px;
+    height: 400px;
+    margin: 0%;
+    height: 430px;
+  }
+}
+
+@media (min-width: 768px) {
+  .zero-sugar-can-bottle img {
+
+    width: 768px;
+    height: 605px;
+    margin: 0%;
+
+
+
+  }
+}
+
+@media (min-width: 992px) {
+  .zero-sugar-can-bottle img {
+    width: 800px;
+    height: 660px;
+    margin: 0%;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .zero-sugar-can-bottle img {
+    width: 915px;
+    height: 658px;
+    margin: 0%;
+  }
+}
+
+.zero-sugar-can-bottle img {
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+/* ZERO SUGAR SUB HEADER-----------------------------------------    */
+
+
+@media (min-width: 300px) {
+  .zero-sugar-sub-header img {
+    width: 100%;
+    height: 60px;
+  }
+}
+
+@media (min-width: 576px) {
+  .zero-sugar-sub-header img {
+    width: 245px;
+    height: 18px;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .zero-sugar-sub-header img {
+    width: 380px;
+    height: 65px;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .zero-sugar-sub-header img {
+    width: 410px;
+    height: 90px;
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .zero-sugar-sub-header img {
+    width: 500px;
+    height: 90px;
+
+  }
+}
+
+.zero-sugar-sub-header {
+  overflow: hidden;
+  position: relative;
+}
+
+/* ZERO SUGAR YOUTUBE VIDEOS-----------------------------------   */
+
+
+
+@media (min-width: 300px) {
+  .first-video-container {
+
+    width: 30.026vw;
+    height: 23.897vw;
+    min-height: unset;
+    max-width: 263.9px;
+  }
+}
+
+@media (min-width: 576px) {
+  .first-video-container {
+    width: 26.026vw;
+    height: 13.897vw;
+    min-height: unset;
+    max-width: 263.9px;
+
+
+  }
+}
+
+@media (min-width:768px) {
+  .first-video-container {
+    width: 217.6px;
+    height: 100.3px;
+    min-height: unset;
+    max-width: 260.9px;
+  }
+}
+
+@media (min-width: 992px) {
+  .first-video-container {
+    width: 232.6px;
+    height: 120.3px;
+    min-height: unset;
+    max-width: 263.9px;
+  }
+}
+
+/* YOUTUBE VIDEO --------------------( TITLE )------------------- */
+
+@media (min-width: 300px) {
+  .firts-videos-title {
+
+    width: 29.026vw;
+    margin-top: 0;
+  }
+}
+
+@media (min-width: 576px) {
+  .firts-videos-title {
+
+    width: 25.026vw;
+    margin-top: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .firts-videos-title {
+    width: 24.026vw;
+    ;
+    margin-top: 0;
+
+
+  }
+}
+
+@media (min-width: 992px) {
+  .firts-videos-title {
+    width: 232.6px;
+    color: #fff;
+  }
+}
+
+@media (min-width:1200px) {
+  .firts-videos-title {
+    width: 232.6px;
+    color: #fff;
+  }
+}
+
+.firts-videos-title {
+
+  overflow: hidden;
+  text-transform: uppercase;
+  font-size: .7rem;
+  font-weight: 900;
+  cursor: pointer;
+  margin: -0.5rem 0.5rem 0;
+  text-align: center;
+  orphans: 2;
+  color: #fff;
+}
+
+
+/*NNNNNNNNNNNNNNNiIIIIIIIIIIIIIITTTTTTTTTRRRRRRRRRRRrrOOOOOOOO*/
+
+.Nitro-pepsi-box {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  overflow: hidden;
+  background-image: url("https://www.pepsi.com/en-us/uploads/images/nitro/Desktop_Background.png");
+  padding-top: 10px;
+  overflow: hidden;
+}
+
+
+/* NitrooooBBBBBoootttleeeeEEIIIIImageeeee*/
+
+@media (min-width: 300px) {
+  .Nitro-pepsi-bootle img {
+
+    width: 100%;
+    padding-top: 20px;
+
+  }
+}
+
+@media (min-width: 576px) {
+  .Nitro-pepsi-bootle img {
+
+    width: 320px;
+    padding-top: 50px;
+    height: 497px;
+  }
+}
+
+@media (min-width: 768px) {
+  .Nitro-pepsi-bootle img {
+
+    width: 310px;
+    height: 433px;
+    padding-top: 50px;
+
+
+  }
+}
+
+@media (min-width: 992px) {
+  .Nitro-pepsi-bootle img {
+    width: 400px;
+    height: 660px;
+    margin-left: 150px;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .Nitro-pepsi-bootle img {
+    width: 424px;
+    height: 658px;
+    margin-left: 245px;
+  }
+}
+
+.Nitro-pepsi-bootle img {
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+/*Nintor Second div HEADERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR*/
+
+.Nitro-pespi-header-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+/*NNNNNNNNNNNNhHHHHHHHHHHHHHHeeeEEEEEEEEEEEErrrrrRRRRRRRRR*/
+
+
+@media (min-width: 300px) {
+  .Nitro-pespi-header-container img {
+
+    width: 100%;
+
+  }
+}
+
+@media (min-width: 576px) {
+  .Nitro-pespi-header-container img {
+
+    width: 245px;
+    height: 160px;
+  }
+}
+
+@media (min-width: 768px) {
+  .Nitro-pespi-header-container img {
+    width: 380px;
+    height: 225px;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .Nitro-pespi-header-container img {
+    width: 410px;
+    height: 230px;
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .Nitro-pespi-header-container img {
+    width: 500px;
+    height: 280px;
+
+  }
+}
+
+.Nitro-pespi-header-container img {
+  overflow: hidden;
+  position: relative;
+}
+
+
+/*HHHHHHHHHHH222222222222222222222222222222222222222*/
+
+
+
+
+@media (min-width: 300px) {
+  .Nitro-pespi-header-container h2 {
+
+    color: #FFF;
+    font-weight: 700;
+    padding-top: 25px;
+    text-align: center;
+    margin-right: 0px;
+    font-size: 2.5rem;
+    margin-bottom: 0%;
+
+  }
+}
+
+@media (min-width: 576px) {
+  .Nitro-pespi-header-container h2 {
+
+    color: #FFF;
+    font-weight: 700;
+    padding-top: 25px;
+    text-align: center;
+    margin-right: 0px;
+    font-size: 2.5rem;
+    margin-bottom: 0%;
+  }
+}
+
+@media (min-width: 768px) {
+  .Nitro-pespi-header-container h2 {
+    color: #FFF;
+    font-weight: 700;
+    padding-top: 25px;
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 2rem;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .Nitro-pespi-header-container h2 {
+    color: #FFF;
+    font-weight: 700;
+    padding-top: 25px;
+    text-align: center;
+    margin-bottom: 0px;
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .Nitro-pespi-header-container h2 {
+    color: #FFF;
+    font-weight: 700;
+    padding-top: 25px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-right: 38px;
+  }
+}
+
+
+
+/*bbbbbbbbbbUUUUUUUUUUUUTTTTTTTTTTTTOOOOOOOOOOONNNNNNNN*/
+
+
+
+.Nitro-pespi-header-container button {
+  display: inline-block;
+  height: 2.3em;
+  border: 2px solid #fff;
+  border-radius: 1.5em;
+  background: transparent;
+  text-transform: uppercase;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  -webkit-transition: background-color .1s ease-out, color .1s ease-out;
+  transition: background-color .1s ease-out, color .1s ease-out;
+}
+
+.Nitro-pespi-header-container button a {
+  font-weight: 700;
+  font-size: 1em;
+  padding: 0.4em 1.85em;
+  color: #fff;
+  cursor: pointer;
+  overflow: hidden;
+  text-decoration: none;
+  height: 2.3em;
+
+
+}
+
+.Nitro-pespi-header-container a:hover {
+  background-color: white;
+  color: #0065c3;
+
+}
+
+
+/*EATING    AND    DRINKING   IMAGE  */
+
+.pepesi-drinking-and-eating-Images {
+
+
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #265cc5;
+  overflow: hidden;
+  padding: 1.5em 1.5em 1.5em 1.5em;
+
+
+}
+
+
+/*  FIRST IMAGE   */
+
+
+@media (min-width: 300px) {
+  .pepsei-eating-drinking-first-image img {
+    width: 100vw;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .pepsei-eating-drinking-first-image img {
+    width: 100vw;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .pepsei-eating-drinking-first-image img {
+    width: 100vw;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .pepsei-eating-drinking-first-image img {
+    height: 17vw;
+    width: 30vw;
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .pepsei-eating-drinking-first-image img {
+    height: 17vw;
+    width: 30vw;
+
+  }
+}
+
+.pepsei-eating-drinking-first-image {
+
+  overflow: hidden;
+
+}
+
+
+
+/*pepsei-eating-drinking-first-image-headinggggggggggggggggggggg*/
+
+
+@media (min-width: 300px) {
+  .pepsei-eating-drinking-first-image-heading {
+    width: 100%;
+    font-weight: 500;
+    font-size: 25px;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .pepsei-eating-drinking-first-image-heading {
+    width: 100%;
+    font-weight: 500;
+    font-size: 25px;
+
+
+  }
+}
+
+@media (min-width: 768px) {
+  .pepsei-eating-drinking-first-image-heading {
+    width: 100%;
+    font-weight: 500;
+    font-size: 25px;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .pepsei-eating-drinking-first-image-heading {
+    width: 100%;
+    font-weight: 500;
+    font-size: 20px;
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .pepsei-eating-drinking-first-image-heading {
+    width: 100%;
+    font-size: 25px;
+    font-weight: 500;
+  }
+}
+
+.pepsei-eating-drinking-first-image-heading {
+  background-color: #1437bf;
+  text-align: center;
+  color: #fff;
+  overflow: hidden;
+}
+
+
+
+
+/*  SECOND IMAGEEEEEEEE   */
+
+
+
+
+@media (min-width: 300px) {
+  .pepsei-eating-drinking-second-image img {
+    width: 100vw;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .pepsei-eating-drinking-second-image img {
+    width: 100vw;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .pepsei-eating-drinking-second-image img {
+    width: 100vw;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .pepsei-eating-drinking-second-image img {
+    height: 20vw;
+    width: 30vw;
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .pepsei-eating-drinking-second-image img {
+    height: 20vw;
+    width: 30vw;
+
+  }
+}
+
+.pepsei-eating-drinking-second-image img {
+
+  overflow: hidden;
+  padding-top: 30px;
+
+}
+
+
+/*  SECOND IMAGGE  HHHHHEEEEEEEEEEDDDDEEEEERRRRR     */
+
+
+
+@media (min-width: 300px) {
+  .pepsei-eating-drinking-second-image-heading {
+    width: 100%;
+    font-weight: 500;
+    font-size: 25px;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .pepsei-eating-drinking-second-image-heading {
+    width: 100%;
+    font-weight: 500;
+    font-size: 25px;
+
+
+  }
+}
+
+@media (min-width: 768px) {
+  .pepsei-eating-drinking-second-image-heading {
+    width: 100%;
+    font-weight: 500;
+    font-size: 25px;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .pepsei-eating-drinking-second-image-heading {
+    width: 100%;
+    font-weight: 500;
+    font-size: 20px;
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .pepsei-eating-drinking-second-image-heading {
+    width: 100%;
+    font-size: 25px;
+    font-weight: 500;
+  }
+}
+
+.pepsei-eating-drinking-second-image-heading {
+  background-color: #1437bf;
+  text-align: center;
+  color: #fff;
+  overflow: hidden;
+}
+
+
+
+
+
+/*  SECOND IMAGGE      */
+
+
+
+@media (min-width: 300px) {
+  .pepsei-eating-drinking-second-image img {
+    width: 100vw;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .pepsei-eating-drinking-second-image img {
+    width: 100vw;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .pepsei-eating-drinking-second-image img {
+    width: 100vw;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .pepsei-eating-drinking-second-image img {
+    height: 20vw;
+    width: 30vw;
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .pepsei-eating-drinking-second-image img {
+    height: 20vw;
+    width: 30vw;
+
+  }
+}
+
+.pepsei-eating-drinking-second-image img {
+
+  overflow: hidden;
+  padding-top: 30px;
+
+}
+
+
+/* LARGE IIIIIIMMMMMMAAAAAGE   */
+
+
+
+@media (min-width: 300px) {
+  .large-image-drinkig-and-eating {
+    background-position: 45% 35%;
+    background-size: 217%;
+
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .large-image-drinkig-and-eating {
+    background-position: 45% 35%;
+    background-size: 217%;
+
+
+  }
+}
+
+@media (min-width: 768px) {
+
+  .large-image-drinkig-and-eating {
+
+    background-position: 45% 35%;
+    background-size: 217%;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .large-image-drinkig-and-eating {
+
+    background-position: 45% 35%;
+    background-size: 228%;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .large-image-drinkig-and-eating {
+    background-position: 45% 35%;
+    background-size: 226%;
+
+  }
+}
+
+.large-image-drinkig-and-eating {
+  background-image: url('https://www.pepsi.com/en-us/uploads/images/better-with-pepsi/PEP_BWP_D.jpg');
+  background-repeat: no-repeat;
+}
+
+/* PEPSI MANGO FLAVOUR  ROW  */
+
+.pepsi-mango-flavour-container {
+
+  background-image: url('https://www.pepsi.com/en-us/uploads/images/pepsi-mango/mango-bg.jpg'), url('https://www.pepsi.com/en-us/uploads/images/pepsi-mango/bg-2-desktop@2x.png');
+  position: relative;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  overflow: hidden;
+
+  overflow: hidden;
+
+
+
+}
+
+
+.pepsi-mango-flavour-container-two {
+
+  position: relative;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+
+  overflow: hidden;
+
+}
+
+/*MANGO LEFT SIDE CONTAINER   */
+.mango-flavour-left-side {
+  display: block;
+  margin: 0%;
+  justify-content: center;
+
+}
+
+
+
+/* MANGO FLAVOUR HEADER LEFT SIDE  */
+
+
+@media (min-width: 300px) {
+  .mango-flavour-header {
+    width: 100vw;
+    padding-top: 20px;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .mango-flavour-header {
+    width: 100vw;
+    padding-top: 20px;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .mango-flavour-header {
+    width: 90vw;
+    padding-left: 100px;
+    padding-top: 20px;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .mango-flavour-header {
+    height: auto;
+    width: 42vw;
+    padding-left: 50px;
+    padding-top: 60px;
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .mango-flavour-header {
+    width: 40vw;
+    height: auto;
+    position: relative;
+    padding-left: 53px;
+    padding-top: 80px;
+
+  }
+}
+
+.mango-flavour-header {
+
+  overflow: hidden;
+  position: relative;
+
+}
+
+/* MANGO FLAVOUR HEADER LEFT SIDE-------DOWN----------- */
+
+
+
+
+@media (min-width: 300px) {
+  .mango-flavour-header-down {
+    width: 100vw;
+    padding-top: 268px;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .mango-flavour-header-down {
+    width: 100vw;
+    padding-top: 100px;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .mango-flavour-header-down {
+    width: 90vw;
+    padding-left: 100px;
+    padding-top: 93px;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .mango-flavour-header-down {
+    height: auto;
+    width: 42vw;
+    padding-left: 50px;
+    padding-top: 97px;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .mango-flavour-header-down {
+    width: 40vw;
+    padding-left: 40px;
+    padding-top: 135px;
+
+  }
+}
+
+.mango-flavour-header-down {
+  overflow: hidden;
+  position: relative;
+}
+
+
+/*  MANGO FLAVOUR -------RIGHT SIDE-------(CONTAINER) */
+
+
+
+.mango-flavour-right-side {
+  display: block;
+  overflow: hidden;
+
+}
+
+
+
+/* MANGO FLAVOUR -------RIGHT SIDE --------(IMAGE)  */
+
+
+
+@media (min-width: 300px) {
+  .mango-flavour-right-side-Image {
+    width: 100vw;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .mango-flavour-right-side-Image {
+    width: 100vw;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .mango-flavour-right-side-Image {
+    width: 100vw;
+
+
+  }
+}
+
+@media (min-width: 992px) {
+  .mango-flavour-right-side-Image {
+    height: auto;
+    width: 62vw;
+
+
+
+  }
+}
+
+@media (min-width:1200px) {
+  .mango-flavour-right-side-Image {
+    width: 64vw;
+
+
+  }
+}
+
+
+.mango-flavour-right-side-Image {
+  overflow: hidden;
+  position: relative;
+}
+
+
+/*  COOLEST PEPSI --------ROW---------   */
+
+
+.pepsi-cool-contaniner {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  overflow: hidden;
+  background-image: url("https://www.pepsi.com/en-us/uploads/images/twil-bg.jpg");
+  padding-top: 10px;
+  overflow: hidden;
+}
+
+
+/* COLLEST PEPSIE --------BOTTLE IMAGE-------- */
+
+
+
+@media (min-width: 300px) {
+  .pepsi-cool-bottle img {
+
+    width: 100%;
+    padding-top: 90px;
+
+  }
+}
+
+@media (min-width: 576px) {
+  .pepsi-cool-bottle img {
+
+    width: 60vw;
+    height: auto;
+    margin: 0%;
+  }
+}
+
+@media (min-width: 768px) {
+  .pepsi-cool-bottle img {
+
+    width: 56vw;
+    height: auto;
+    margin: 0%;
+
+
+  }
+}
+
+@media (min-width: 992px) {
+  .pepsi-cool-bottle img {
+    width: 50vw;
+    height: auto;
+    margin: 0%;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .pepsi-cool-bottle img {
+    width: 50vw;
+    height: auto;
+    margin: 0%;
+
+  }
+}
+
+.pepsi-cool-bottle img {
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+/* PEPSI COOL BOTTLE ----------HEADER CONTAINER----------  */
+
+
+
+.pepsi-cool-header-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+
+
+
+/* PEPSI COOL BOTTLE --------HEADER IMAGE-----------------  */
+
+
+
+@media (min-width: 300px) {
+  .pepsi-cool-header-container img {
+    width: 90vw;
+    height: auto;
+    padding-top: 90px;
+
+  }
+}
+
+@media (min-width: 576px) {
+  .pepsi-cool-header-container img {
+    width: 50vw;
+    height: auto;
+    padding-top: 60px;
+  }
+}
+
+@media (min-width: 768px) {
+  .pepsi-cool-header-container img {
+    width: 45vw;
+    height: auto;
+    padding-top: 70px;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .pepsi-cool-header-container img {
+    width: 40vw;
+    height: auto;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .pepsi-cool-header-container img {
+    width: 40vw;
+    height: auto;
+
+  }
+}
+
+.pepsi-cool-header-container img {
+  overflow: hidden;
+  position: relative;
+}
+
+
+
+
+
+/*  FAVOURATE FLAVOURS -------------CONTAINER----------  */
+
+
+
+
+.favourite-flavour-contaniner {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  overflow: hidden;
+  background-image: url("https://www.pepsi.com/en-us/uploads/04_Generation_BG_D_2.png?mtime=20181217151706");
+  padding-top: 100px;
+  overflow: hidden;
+  padding-bottom: 100px;
+}
+
+
+
+
+/* FAVOURITE FLAVOUR ---------------BOOTTLE IMAGE CONTAINER--- */
+
+.favourite-flavour-bottle-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: auto;
+}
+
+
+/* FAVOURITE FLAVOUR ----------------BOOTLE IMAGE----------  */
+
+
+
+
+
+@media (min-width: 300px) {
+  .favourite-flavour-bottle-container img {
+
+    width: 100%;
+    padding: 0%;
+
+  }
+}
+
+@media (min-width: 576px) {
+  .favourite-flavour-bottle-container img {
+
+    width: 65vw;
+    height: auto;
+    margin: 0%;
+    padding: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .favourite-flavour-bottle-container img {
+
+    width: 60vw;
+    height: auto;
+    margin: 0%;
+    padding: 0;
+
+
+  }
+}
+
+@media (min-width: 992px) {
+  .favourite-flavour-bottle-container img {
+    width: 46vw;
+    height: auto;
+    margin: 0%;
+    padding: 0;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .favourite-flavour-bottle-container img {
+    width: 46vw;
+    height: auto;
+    margin: 0%;
+    padding: 0;
+
+  }
+}
+
+.favourite-flavour-bottle-container img {
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  filter: drop-shadow(1rem 1rem 1.5rem rgba(0, 0, 0, .5));
+}
+
+
+
+
+/*  FAVOURITE FLAVOUR ----------HEADER----------   */
+
+
+.favourite-flavour-header {
+  display: flex;
+  flex-direction: column;
+
+
+
+}
+
+/*  FAVOURITE FLAVOUR -----------  ( H2 )  ---------- */
+
+
+
+
+@media (min-width: 300px) {
+  .favourite-flavour-header h2 {
+    font-size: 2rem;
+    font-weight: 750;
+    letter-spacing: -3px;
+    word-spacing: 5px;
+    margin: 0;
+    line-height: 3rem;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .favourite-flavour-header h2 {
+    font-size: 3rem;
+    font-weight: 750;
+    letter-spacing: -3px;
+    word-spacing: 5px;
+    margin: 0;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .favourite-flavour-header h2 {
+    font-size: 3rem;
+    font-weight: 750;
+    letter-spacing: -3px;
+    word-spacing: 5px;
+    margin: 0;
+
+
+  }
+}
+
+@media (min-width: 992px) {
+  .favourite-flavour-header h2 {
+    font-size: 3rem;
+    font-weight: 750;
+    letter-spacing: -3px;
+    word-spacing: 5px;
+    margin: 0;
+    padding-left: 78px;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .favourite-flavour-header h2 {
+
+    padding-left: 58px;
+    font-size: 3.75rem;
+    line-height: 1em;
+    margin-bottom: 0%;
+    font-weight: 800;
+    letter-spacing: -5px;
+    word-spacing: 20px;
+  }
+}
+
+
+/* FAVOURITE FLAVOUR HEADER ---------(  P  )----------------   */
+
+
+@media (min-width: 300px) {
+  .favourite-flavour-header p {
+    width: 100%;
+    margin: 1em 0;
+    line-height: 1.25;
+    position: relative;
+    font-weight: 500;
+
+
+  }
+}
+
+@media (min-width: 576px) {
+  .favourite-flavour-header p {
+
+    width: 100%;
+    margin: 1em 0;
+    line-height: 1.25;
+    position: relative;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 768px) {
+  .favourite-flavour-header p {
+
+    width: 100%;
+    margin: 1em 0;
+    line-height: 1.25;
+    position: relative;
+    font-weight: 500;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .favourite-flavour-header p {
+
+    padding-left: 78px;
+    width: 96%;
+    margin: 1em 0;
+    line-height: 1.25;
+    position: relative;
+    font-weight: 500;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .favourite-flavour-header p {
+
+    padding-left: 54px;
+    width: 69%;
+    margin: 1em 0;
+    line-height: 1.25;
+    position: relative;
+    font-weight: 500;
+
+  }
+}
+
+
+
+
+/* FAVOURITE FLAVOUR -------------BUTTON-------------------  */
+
+
+
+@media (min-width: 992px) {
+  .favourite-flavour-header-button {
+
+    margin-left: 75px;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .favourite-flavour-header-button {
+    margin-left: 54px;
+
+
+  }
+}
+
+
+.favourite-flavour-header-button button {
+
+  position: relative;
+  margin-top: 1em;
+  font-size: 1em;
+  height: 2.3em;
+  padding: 0.4em 1.85em;
+  border: 2px solid #fff;
+  border-radius: 1.8em;
+  background: transparent;
+  color: #fff;
+  overflow: hidden;
+  font-weight: 650;
+  width: 200px;
+
+}
+
+.favourite-flavour-header-button button:hover {
+  color: #0065c3;
+  background-color: white;
+
+}
+
+
+/* SOCIAL MEDIA HEADER-------------(H2)-------------------*/
+
+
+
+@media (min-width: 300px) {
+  .social-media-header {
+    font-weight: 800;
+    font-size: 1.0rem;
+
+  }
+}
+
+@media (min-width: 576px) {
+  .social-media-header {
+    font-weight: 800;
+    font-size: 2.0rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .social-media-header {
+
+    font-weight: 800;
+    font-size: 2.50rem;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .social-media-header {
+    font-weight: 800;
+    font-size: 2.90rem;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .social-media-header {
+    font-size: 3.75rem;
+    font-weight: 800;
+    letter-spacing: -4px;
+    word-spacing: 4px;
+
+
+  }
+}
+
+.social-media-header {
+
+  color: #0065c3;
+  padding: 0%;
+  margin-right: 0%;
+  padding: 0%;
+  margin: 0%;
+  position: relative;
+  text-align: center;
+
+}
+
+
+
+
+
+/*  SOCIAL MEDIA IMAGES-----------------------( IMG )-------------- */
+
+
+
+@media (min-width: 300px) {
+  .soical-media-images img {
+    width: 92px;
+
+  }
+}
+
+@media (min-width: 576px) {
+  .soical-media-images img {
+    width: 250px;
+    padding-bottom: 2px;
+  }
+}
+
+@media (min-width: 768px) {
+  .soical-media-images img {
+
+    width: 345px;
+    padding-bottom: 5px;
+
+  }
+}
+
+@media (min-width: 992px) {
+  .soical-media-images img {
+    width: 229px;
+
+  }
+}
+
+@media (min-width:1200px) {
+  .soical-media-images img {
+    width: 280px;
+
+
+
+  }
+}
+
+
+
+.soical-media-images img {
+  position: relative;
+
+}
+
+/* FINAL FOOTER */
+
+
+.final-footer {
+  background-color: #0065c3;
+  justify-content: space-between;
+  padding: 40px;
+  padding-top: 103px;
+  padding-bottom: 87px;
+  padding-left: 30px;
+
+}
+
+.Terms-and-conditions ul {
+  margin: 0%;
+  list-style: none;
+
+}
+
+.Terms-and-conditions ul li {
+  margin: 0%;
+
+}
+
+.Terms-and-conditions ul li a {
+  text-decoration: none;
+  color: #FFF;
+  font-weight: 800;
+}
+
+.Terms-and-conditions ul li a:hover {
+  text-decoration: none;
+  transition: opacity .1s ease-out;
+
+}
+
+.soical-media-links button {
+  display: inline-block;
+  font-size: 1em;
+  height: 2.3em;
+  padding: 0.4em 1.85em;
+  border: 2px solid #fff;
+  border-radius: 1.8em;
+  background: transparent;
+  color: #fff;
+  overflow: hidden;
+  font-weight: 800;
+}
+
+.soical-media-links button:hover {
+
+
+  background-color: #FFF;
+  color: #0065c3;
+
+
+
+}
+
+.logo {
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+.logo ul {
+  list-style: none;
+
+  display: flex;
+  padding-left: 50px;
+}
+
+.logo ul li {
+  padding-left: 30px;
+}
+.navbar-brand:hover {
+  -webkit-animation-name: rotateIn;
+  animation-name: rotateIn;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  transition-duration:0.1s ;
+}
+.imagezoom:hover {
+  -webkit-animation-name: zoomIn;
+  animation-name: zoomIn;
+  animation-duration: 0.3s;
+}
+
+@-webkit-keyframes zoomIn {
+  0% {
+      opacity: 0;
+      -webkit-transform: scale3d(.3, .3, .3);
+      transform: scale3d(.3, .3, .3)
+  }
+
+  50% {
+      opacity: 1
+  }
+}
+
+@keyframes zoomIn {
+  0% {
+      opacity: 0;
+      -webkit-transform: scale3d(.3, .3, .3);
+      transform: scale3d(.3, .3, .3)
+  }
+
+  50% {
+      opacity: 1
+  }
+}
